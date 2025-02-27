@@ -1,0 +1,29 @@
+.site-header {
+    background-color: aquamarine;
+    color: white;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content {
+    margin: 1rem;
+}
+
+.profile_image {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.anchor_tag {
+    color: white;
+}
+
+body {
+    margin: 0;
+}
